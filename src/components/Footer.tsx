@@ -113,7 +113,7 @@ const Footer: React.FC = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-center md:text-left mb-4 md:mb-0">
-            © 2025 Chandan Behera. All rights reserved. Built with <Heart size={16} className="inline text-red-500" /> and React.
+            © 2025 Chandan Behera. All rights reserved.
           </p>
           
           <button 
